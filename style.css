@@ -1,0 +1,17 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css?family=Roboto:900&display=swap');
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  color: #eb4646;
+}
