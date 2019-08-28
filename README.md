@@ -10,7 +10,7 @@ Mirrors are only updated if the primary gets blocked!
 
  - [https://unblocked-downloads.glitch.me/](https://unblocked-downloads.glitch.me/)
  - [https://unblocked-downloads-m1.glitch.me/](https://unblocked-downloads-m1.glitch.me/)
- - [https://unblocked-downloads-m2.glitch.me/](https://unblocked-downloads-m2.glitch.me/
+ - [https://unblocked-downloads-m2.glitch.me/](https://unblocked-downloads-m2.glitch.me/)
  - Currently all betas are private.
 
 **PLEASE NOTE**
